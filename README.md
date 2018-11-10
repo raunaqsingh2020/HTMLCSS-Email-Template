@@ -6,4 +6,4 @@
 
 ["Planet Earth Africa Asia"](https://pixabay.com/en/planet-earth-africa-asia-icon-2351750/) by [mohamed_hassan](https://pixabay.com/en/planet-earth-africa-asia-icon-2351750/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
-[Live Preview](https://rerunsgci.github.io/rerunsGCI/)
+[Live Preview](https://rerunsgci.github.io)
