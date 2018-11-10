@@ -1,1 +1,7 @@
 # OpenMRSThankYouEmail
+
+[“Facebook logo 2014 wiki blue”](https://commons.wikimedia.org/wiki/File:Facebook_logo_2014_wiki_blue.gif) by [Vojtěch Dostál](https://commons.wikimedia.org/wiki/User:Vojtěch_Dostál) is licensed under [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) / Desaturated from original
+
+[“Twitter Bird Twitter Button Bird Twitter”](https://pixabay.com/en/twitter-bird-twitter-button-bird-1366218/) by [edisona](https://pixabay.com/en/users/edisona-1677120/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / Desaturated from original
+
+[Live Preview](https://rerunsgci.github.io/rerunsGCI/)
